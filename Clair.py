@@ -1,0 +1,2 @@
+name = "calir"
+print (name)
